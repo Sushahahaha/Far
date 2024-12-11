@@ -13,6 +13,6 @@ int main() {
 
     // Вывод введённых чисел
     cout << "Вы ввели: " << num1 << " и " << num2 << endl;
-
+    cout << "Разность: " << (num1 - num2) << endl;
     return 0;
 }
